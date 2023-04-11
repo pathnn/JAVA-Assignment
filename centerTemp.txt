@@ -1,0 +1,7 @@
+store_name date num_car current_num
+KL_store 11/4 toyota 0
+MALAY_store 12/2 mitsubishi 0
+JAPAN_store 1/2 UFJ 0
+korea_store 2/11 apex 0
+Parkhill_store 15/3 try 0
+APU 1/6 subaru 0
